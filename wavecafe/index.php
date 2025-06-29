@@ -217,7 +217,7 @@ if (!$conn) {
       </div>    
     </div>
     <div class="tm-black-bg tm-footer-text" style="text-align: center; padding: 20px; margin-top: 100px;">
-      <h3>Wave Cafe Berbasis Web</h3>
+      <h3>Kelompok 3</h3>
       <p> 
         Syafrina Metavianida (20230140211),
         Asti Nurul Utami (20230140217),
