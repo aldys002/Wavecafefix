@@ -216,15 +216,16 @@ if (!$conn) {
         </main>
       </div>    
     </div>
-    <div class="tm-black-bg tm-footer-text" style="text-align: center; padding: 20px;">
+    <div class="tm-black-bg tm-footer-text" style="text-align: center; padding: 20px; margin-top: 100px;">
       <h3>Wave Cafe Berbasis Web</h3>
       <p> 
-        Syafrina Metavianida (20230140211)<sup>1</sup>,
-        Asti Nurul Utami (20230140217)<sup>2</sup>,
-        Aldys Igidia Triatmaja (20230140207)<sup>3</sup>,
-        Dicky Diva Arrayan (20230140247)<sup>4</sup>
+        Syafrina Metavianida (20230140211),
+        Asti Nurul Utami (20230140217),
+        Aldys Igidia Triatmaja (20230140207),
+        Dicky Diva Arrayan (20230140247)
       </p>
     </div>
+
 
     <footer class="tm-site-footer">
       <p class="tm-black-bg tm-footer-text">Copyright 2020 Wave Cafe
