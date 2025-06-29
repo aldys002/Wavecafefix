@@ -216,6 +216,16 @@ if (!$conn) {
         </main>
       </div>    
     </div>
+    <div class="tm-black-bg tm-footer-text" style="text-align: center; padding: 20px;">
+      <h3>Wave Cafe Berbasis Web</h3>
+      <p> 
+        Syafrina Metavianida (20230140211)<sup>1</sup>,
+        Asti Nurul Utami (20230140217)<sup>2</sup>,
+        Aldys Igidia Triatmaja (20230140207)<sup>3</sup>,
+        Dicky Diva Arrayan (20230140247)<sup>4</sup>
+      </p>
+    </div>
+
     <footer class="tm-site-footer">
       <p class="tm-black-bg tm-footer-text">Copyright 2020 Wave Cafe
       | Design: <a href="https://www.tooplate.com" class="tm-footer-link" rel="sponsored" target="_parent">Tooplate</a></p>
